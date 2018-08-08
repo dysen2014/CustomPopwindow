@@ -1,4 +1,4 @@
-package com.example.dysen.customPop;
+package com.example.dysen.pop;
 
 import android.content.Context;
 import android.os.Bundle;
@@ -18,7 +18,7 @@ import android.widget.SeekBar;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.example.dysen.customPop.views.CustomPopWindow;
+import com.example.dysen.pop.views.CustomPopWindow;
 
 import java.util.ArrayList;
 import java.util.List;

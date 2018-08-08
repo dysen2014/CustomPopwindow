@@ -1,4 +1,4 @@
-package com.example.dysen.customPop;
+package com.example.dysen.pop;
 
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
